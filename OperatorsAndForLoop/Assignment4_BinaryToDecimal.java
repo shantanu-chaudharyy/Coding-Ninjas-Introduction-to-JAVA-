@@ -26,3 +26,5 @@ public class Assignment4_BinaryToDecimal {
 		}
 
 	}
+
+	
